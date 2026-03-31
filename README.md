@@ -1,6 +1,6 @@
 # Cryptography-CIA
 
-Prompts : 
+### Prompts : 
     -1.my workflow is as folows
 Plain text is converted to cipher text using the encryption formula of multiplicative cipher . Now any hash function is applied on this cipher text , and we get a hash value . This hash value is attached behind the cipher text and sent . Now in reciever end we split hash value from the cipher text and we again use the same hash function to get hash value of the cipher text . Now we check the hash value we obtained with the hash value we sent. If the hash values are same then the sent text is not corrupted
 is this correct
