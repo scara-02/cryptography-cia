@@ -1,6 +1,6 @@
 # Cryptography-CIA
 
-# Cryptography Workflow and Hash Functions
+## Prompts
 
 ## 1. Workflow Verification
 **User Query:** My workflow is as follows: 
