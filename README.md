@@ -1,7 +1,5 @@
 # Cryptography-CIA
 
-## Prompts
-
 ## 1. Workflow
 **User Query:** My workflow is as follows: 
 1. Plain text is converted to cipher text using the Multiplicative Cipher encryption formula.
